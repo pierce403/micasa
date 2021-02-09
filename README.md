@@ -2,6 +2,7 @@
 Simple python script for importing keys from the back of casascius coins.
 
 https://en.bitcoin.it/wiki/Casascius_physical_bitcoins
+
 https://en.bitcoin.it/wiki/Mini_private_key_format
 
 Edit the script to put in your shortkey (line 12), then run with python2.
