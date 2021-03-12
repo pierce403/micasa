@@ -11,6 +11,13 @@ import sys
 
 shortkey = "S6c56bnXQiBjk9mqSYE7ykVQ7NzrRy"
 
+try:
+  shortkey = sys.argv[1]
+  print("short key: "+shortkey)
+except:
+  sys.exit("usage: python2 mikasa.py <shortkey>")
+
+
 ##### start code from pywallet.py #############
 
 __b58chars = '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz'

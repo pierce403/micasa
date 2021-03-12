@@ -8,7 +8,8 @@ https://en.bitcoin.it/wiki/Mini_private_key_format
 Edit the script to put in your shortkey (line 12), then run with python2.
 
 ```
-$ python micasa.py 
+$ python2 micasa.py S6c56bnXQiBjk9mqSYE7ykVQ7NzrRy
+short key: S6c56bnXQiBjk9mqSYE7ykVQ7NzrRy
 raw key:   4c7a9640c72dc2099f23715d0c8a0d8a35f8906e3cab61dd3f78b67bf887c9ab
 check key: 000f2453798ad4f951eecced2242eaef3e1cbc8a7c813c203ac7ffe57060355d
 CONGRATS!  Checksum looks good!
