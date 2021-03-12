@@ -5,8 +5,6 @@ https://en.bitcoin.it/wiki/Casascius_physical_bitcoins
 
 https://en.bitcoin.it/wiki/Mini_private_key_format
 
-Edit the script to put in your shortkey (line 12), then run with python2.
-
 ```
 $ python2 micasa.py S6c56bnXQiBjk9mqSYE7ykVQ7NzrRy
 short key: S6c56bnXQiBjk9mqSYE7ykVQ7NzrRy
